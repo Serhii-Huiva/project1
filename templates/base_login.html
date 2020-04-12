@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles_index.css') }}">
+    <title> {% block title %} {% endblock %} </title>
+</head>
+<body>
+    <div class="form_login">
+        <h3> {% block form_title %} {% endblock %} </h3>        
+        <form action="" method="POST" novalidate>
+            <div>
+                <input class="input" type="text" name="username" placeholder="User name">
+            </div>
+            <div>
+                <input class="input" type="password" name="password" placeholder="Password">
+            </div>
+            <div class="button">
+                <button> {% block btn %} {% endblock %} </button>
+            </div>
+        </form>
+        <h6> {% block form_footer %} {% endblock %} </h6>
+    </div>
+</body>
+</html>

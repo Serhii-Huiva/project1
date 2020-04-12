@@ -1,0 +1,178 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 24px;
+    margin: 0px auto;
+    background-color: #def;
+}
+
+ .navbar {
+    background-color: #333;
+    color: #def;
+ }
+
+.logo_item {
+    width: 20%;
+    margin: 10px 20px;
+    display: inline-block;
+}
+
+.search_item {
+    width: 40%;
+    margin: 10px 20px;
+    display: inline-block;
+}
+
+.search_input {
+    width: 70%;
+    height: 28px;
+    color: #333;
+}
+
+.user_item {
+    width: 20%;
+    margin: 10px;
+    display: inline-block;
+    float: right;
+    text-align: center;
+}
+
+.search_btn, .logout_btn {
+    margin: 10px;
+    width: 75px;
+    height: 25px;
+}
+
+.user, .user_item > form {
+    display: inline-block;
+}
+
+main {
+    text-align: center;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.book_title {
+    text-align: left;
+    height: 50px;
+    border: #333 solid 1 px;
+    border-radius: 25px;
+    background-color: #333;
+    color: #def;
+    margin: 1% 25px;
+}
+
+.book_item {
+    text-align: left;
+    height: 50px;
+    border: #333 solid 1 px;
+    border-radius: 25px;
+    background-color: #777;
+    color: #def;
+    margin: 1% 25px;
+}
+
+.isbn {
+    width: 20%;
+    margin: 10px 5px;
+    display: inline-block;
+}
+
+.title {
+    width: 40%;
+    display: inline-block;
+}
+.author {
+    width: 30%;
+    display: inline-block;
+}
+
+.year {
+    width: 5%;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #def;
+}
+.book_info {
+    text-align: left;
+}
+
+.book_info img {
+    float: left;
+    width: 35%;
+    min-width: 150px;
+    margin: 25px;
+}
+
+.book_inf {
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.coment_item {
+    text-align: left;
+    background-color: #777;
+    border: #333 solid 1px;
+    border-radius: 25px;
+    margin: 25px 5%;
+    color: #def;
+}
+
+.range_item {
+    text-align: left;
+    margin: 25px;
+}
+
+.range_item h5 {
+    display: inline;
+    margin: 25px;
+}
+
+.rating {
+    margin-left: 50px;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.radio_btn_item span {
+    margin: 0px 3px;
+    font-size: 20px;
+}
+.coment_form h5 {
+    margin: 5px auto 5px 50px;
+}
+
+.coment_input {
+    width: 95%;
+    height: 100px;
+    margin: auto;
+    background-color: #def;
+    color: #333;
+    border: #333 solid 1px;
+    border-radius: 10px;
+    font-size: 20px;
+    display: block;
+}
+
+.send_btn {
+    display: block;
+    margin: 25px;
+    width: 150px;
+    height: 35px;
+}
+
+.coment_item h3 {
+    margin: 10px 10px 0px 50px;
+}
+
+.coment_item h5 {
+    margin: 10px 10px 0px 50px;
+    display: block;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href=" {{ url_for('static', filename='styles.css') }} ">
+    <link rel="shortcut icon" href="../static/img/icon.png" type="image/x-icon">
+    <title> {% block title %} {% endblock %} </title>
+</head>
+<body>
+  <nav>
+    <div class="navbar">
+      <div class="logo_item">
+        <img class="logotype" src="../static/img/Logo.png" alt="Logo">
+      </div>
+      <div class="search_item">
+        <form action="main.html" method="POST">
+          <div class="search_mode">
+            <input class="seaech_radio" type="radio" name="search_mode" value="isbn" checked> <span>ISBN</span>
+            <input class="seaech_radio" type="radio" name="search_mode" value="title"> <span>Title</span>
+            <input class="seaech_radio" type="radio" name="search_mode" value="author"> <span>Author</span> 
+          </div>
+          <input class="search_input" type="text" type="search" name="search" placeholder="Search">
+          <button class="search_btn"> Search </button>
+        </form>
+      </div>
+      <div class="user_item">
+        <span class="user"> Hi, {{ session["user"] }}!</span>
+        <form action="logout" method="GET"> 
+          <button class="logout_btn"> Log Out </button> 
+        </form>
+      </div>
+    </div>
+  </nav>
+  <main>
+    {% block content %}
+
+    {% endblock %}
+  </main>
+</body>
+</html>

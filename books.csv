@@ -1,10 +1,9 @@
-isbn,title,author,year
 0380795272,Krondor: The Betrayal,Raymond E. Feist,1998
 1416949658,The Dark Is Rising,Susan Cooper,1973
 1857231082,The Black Unicorn ,Terry Brooks,1987
-0553803700,"I, Robot",Isaac Asimov,1950
+"0553803700,""I, Robot"",Isaac Asimov,1950"
 080213825X,Four Blondes,Candace Bushnell,2000
-0375913750,"Love, Stargirl",Jerry Spinelli,2007
+"0375913750,""Love, Stargirl"",Jerry Spinelli,2007"
 074349671X,The Tenth Circle,Jodi Picoult,2006
 0743454553,Vanishing Acts,Jodi Picoult,2005
 0765317508,Aztec,Gary Jennings,1980
@@ -102,7 +101,7 @@ isbn,title,author,year
 0316234478,The 100,Kass Morgan,2013
 1423140605,The Mark of Athena,Rick Riordan,2012
 0224085611,Her Fearful Symmetry,Audrey Niffenegger,2009
-0765335344,Vicious,"V.E. Schwab, Victoria Schwab",2013
+"0765335344,Vicious,""V.E. Schwab, Victoria Schwab"",2013"
 1423108760,Bad Girls Don't Die,Katie Alender,2009
 0553293427,Pebble in the Sky,Isaac Asimov,1950
 0739437585,Safe Harbour,Danielle Steel,2003
@@ -125,7 +124,7 @@ isbn,title,author,year
 0385366434,Two Ravens and One Crow,Kevin Hearne,2012
 0345438310,Nicholas and Alexandra,Robert K. Massie,1967
 0060652381,A Grief Observed,C.S. Lewis,1961
-140690483X,"Right Ho, Jeeves",P.G. Wodehouse,1934
+"140690483X,""Right Ho, Jeeves"",P.G. Wodehouse,1934"
 0743482883,Mr. Perfect,Linda Howard,2000
 0060744545,Moonrise,Erin Hunter,2005
 0385907508,Moon Over Manifest,Clare Vanderpool,2010
@@ -138,7 +137,7 @@ isbn,title,author,year
 0582418275,The Firm,John Grisham,1991
 041330860X,Antigone,Jean Anouilh,1944
 0399154302,Spook Country,William Gibson,2007
-0224064924,Esio Trot,"Roald Dahl, Quentin Blake",1990
+"0224064924,Esio Trot,""Roald Dahl, Quentin Blake"",1990"
 0345495357,The Lady Elizabeth,Alison Weir,2008
 0060760885,One Crazy Summer,Rita Williams-Garcia,2010
 0375990690,Teardrop,Lauren Kate,2013
@@ -268,7 +267,7 @@ isbn,title,author,year
 1414334095,Her Daughter's Dream,Francine Rivers,2010
 0399157441,Chasing Fire,Nora Roberts,2011
 0670020559,The Magicians,Lev Grossman,2009
-0446602213,"Morning, Noon & Night",Sidney Sheldon,1995
+"0446602213,""Morning, Noon & Night"",Sidney Sheldon,1995"
 0345435168,Open House,Elizabeth Berg,2000
 0345515633,Last to Die,Tess Gerritsen,2012
 0451458923,Summer Knight,Jim Butcher,2002
@@ -318,7 +317,7 @@ isbn,title,author,year
 0312939035,E Is for Evidence,Sue Grafton,1988
 0765348802,Memories of Ice,Steven Erikson,2001
 0399158820,Calculated in Death,J.D. Robb,2013
-0060739428,"Catherine, Called Birdy",Karen Cushman,1994
+"0060739428,""Catherine, Called Birdy"",Karen Cushman,1994"
 0143417231,Can Love Happen Twice?,Ravinder Singh,2011
 0385342020,Twenties Girl,Sophie Kinsella,2009
 0446402400,The Secret Speech,Tom Rob Smith,2009
@@ -332,7 +331,7 @@ isbn,title,author,year
 0812508440,The White Rose,Glen Cook,1985
 034525855X,A Spell for Chameleon,Piers Anthony,1977
 0553813145,Midnight Tides,Steven Erikson,2004
-0786890754,"PS, I Love You",Cecelia Ahern,2003
+"0786890754,""PS, I Love You"",Cecelia Ahern,2003"
 0060598328,The Saving Graces,Patricia Gaffney,1999
 0765343436,Daughter of the Forest,Juliet Marillier,1999
 0515121843,Sea Swept,Nora Roberts,1998
@@ -359,7 +358,7 @@ isbn,title,author,year
 0061726834,Delirium,Lauren Oliver,2011
 0886774268,Magic's Price,Mercedes Lackey,1990
 8129115301,Two States,Chetan Bhagat,2009
-0345418425,Footfall,"Larry Niven, Jerry Pournelle",1985
+"0345418425,Footfall,""Larry Niven, Jerry Pournelle"",1985"
 1596434465,Zita the Spacegirl,Ben Hatke,2011
 0375706410,Waiting,Ha Jin,1999
 1599906953,Throne of Glass,Sarah J. Maas,2012
@@ -368,7 +367,7 @@ isbn,title,author,year
 006053124X,It's In His Kiss,Julia Quinn,2005
 0425189031,Portrait in Death,J.D. Robb,2003
 0743253426,Islands in the Stream,Ernest Hemingway,1970
-006124242X,Darke,"Angie Sage, Mark Zug",2011
+"006124242X,Darke,""Angie Sage, Mark Zug"",2011"
 0399150862,The Cove,Catherine Coulter,1996
 1590385810,Fablehaven,Brandon Mull,2006
 0743233492,Break No Bones,Kathy Reichs,2006
@@ -398,16 +397,16 @@ isbn,title,author,year
 0575075066,God Emperor of Dune,Frank Herbert,1981
 0749934395,Seduction in Death,J.D. Robb,2001
 1937248097,The Duchess War,Courtney Milan,2012
-068987121X,"Over Sea, Under Stone",Susan Cooper,1965
+"068987121X,""Over Sea, Under Stone"",Susan Cooper,1965"
 0425267083,Burn,Maya Banks,2013
 0812992792,The Orphan Master's Son,Adam Johnson,2012
 0399162437,The Last Star,Rick Yancey,2016
 0553582917,Intensity,Dean Koontz,1987
 1416571736,Going Too Far,Jennifer Echols,2009
 0062317148,The Guard,Kiera Cass,2014
-0316097527,"Alex Cross, Run",James Patterson,2013
+"0316097527,""Alex Cross, Run"",James Patterson,2013"
 1599903385,Need,Carrie Jones,2008
-0753510995,"Screw It, Let's Do It",Richard Branson,2006
+"0753510995,""Screw It, Let's Do It"",Richard Branson,2006"
 076534629X,The Codex,Douglas Preston,2003
 0062194720,The Revenge of Seven,Pittacus Lore,2014
 0812966295,King Solomon's Mines,H. Rider Haggard,1885
@@ -487,7 +486,7 @@ isbn,title,author,year
 0778324516,Back on Blossom Street,Debbie Macomber,2007
 1565126297,When She Woke,Hillary Jordan,2011
 0060182989,Mister B. Gone,Clive Barker,2007
-0425099334,Shattered,"K.R. Dwyer, Dean Koontz",1973
+"0425099334,Shattered,""K.R. Dwyer, Dean Koontz"",1973"
 0451225090,The House On Tradd Street,Karen   White,2008
 0062280678,Dorothy Must Die,Danielle  Paige,2014
 0553382616,The Shelters of Stone,Jean M. Auel,2002
@@ -505,7 +504,7 @@ isbn,title,author,year
 0394298667,Red Storm Rising,Tom Clancy,1986
 031236847X,Sweetheart,Chelsea Cain,2008
 0557364639,My Blood Approves,Amanda Hocking,2010
-0141311371,The BFG,"Roald Dahl, Quentin Blake",1982
+"0141311371,The BFG,""Roald Dahl, Quentin Blake"",1982"
 0312954468,River God,Wilbur Smith,1993
 0688114490,Owen,Kevin Henkes,1993
 0515144592,The Hollow,Nora Roberts,2008
@@ -562,7 +561,7 @@ isbn,title,author,year
 0307588920,Think of a Number,John Verdon,2010
 1101875100,M Train,Patti Smith,2015
 0375701907,Straight Man,Richard Russo,1997
-074326195X,"Cry, The Beloved Country",Alan Paton,1948
+"074326195X,""Cry, The Beloved Country"",Alan Paton,1948"
 0553277405,Night Probe!,Clive Cussler,1981
 0756409608,Broken Homes,Ben Aaronovitch,2013
 0373210582,Alice in Zombieland,Gena Showalter,2012
@@ -581,7 +580,7 @@ isbn,title,author,year
 0399148701,Red Rabbit,Tom Clancy,2002
 0765318415,Boneshaker ,Cherie Priest,2009
 031603617X,Cross Fire,James Patterson,2010
-1846054761,The Gift,"James Patterson, Ned Rust",2010
+"1846054761,The Gift,""James Patterson, Ned Rust"",2010"
 0099453452,Point of Impact,Stephen Hunter,1993
 1466867507,Cometh the Hour,Jeffrey Archer,2016
 0743265025,The Starter Wife,Gigi Levangie Grazer,2005
@@ -602,12 +601,12 @@ isbn,title,author,year
 0552148032,King of the Murgos,David Eddings,1988
 144242673X,P.S. I Still Love You,Jenny Han,2015
 0399167838,The Young Elites,Marie Lu,2014
-1401204953,We3,"Grant Morrison, Frank Quitely",2005
+"1401204953,We3,""Grant Morrison, Frank Quitely"",2005"
 0743243315,Brick Lane,Monica Ali,2003
-0380820854,"To Sir Phillip, With Love",Julia Quinn,2003
-0553499114,Illuminae,"Amie Kaufman, Jay Kristoff",2015
+"0380820854,""To Sir Phillip, With Love"",Julia Quinn,2003"
+"0553499114,Illuminae,""Amie Kaufman, Jay Kristoff"",2015"
 141971189X,The Long Haul ,Jeff Kinney,2014
-0727853414,Exit to Eden,"Anne Rampling, Anne Rice",1985
+"0727853414,Exit to Eden,""Anne Rampling, Anne Rice"",1985"
 0553418297,The Fold,Peter Clines,2015
 0310247535,Even Now,Karen Kingsbury,2005
 0440229081,Skellig,David Almond,1998
@@ -626,7 +625,7 @@ isbn,title,author,year
 1442409096,Sever,Lauren DeStefano,2013
 0816638624,A Single Man,Christopher Isherwood,1964
 0545424984,The Raven King,Maggie Stiefvater,2016
-0553295411,Fire Sea,"Margaret Weis, Tracy Hickman",1991
+"0553295411,Fire Sea,""Margaret Weis, Tracy Hickman"",1991"
 0312364423,Night Road,Kristin Hannah,2011
 0425214435,Eyes of Prey,John Sandford,1991
 0425213978,Labyrinth,Kate Mosse,2005
@@ -682,7 +681,7 @@ isbn,title,author,year
 1414368186,Bridge to Haven,Francine Rivers,2014
 0061120073,A Tree Grows In Brooklyn ,Betty  Smith,1943
 0393079988,Great House,Nicole Krauss,2010
-0440800463,"Ramona Quimby, Age 8",Beverly Cleary,1981
+"0440800463,""Ramona Quimby, Age 8"",Beverly Cleary,1981"
 0060590319,Fool,Christopher Moore,2009
 0062377183,Moriarty,Anthony Horowitz,2014
 0544303164,The Turner House,Angela Flournoy,2015
@@ -720,7 +719,7 @@ isbn,title,author,year
 1455503258,The Astronaut Wives Club,Lily Koppel,2013
 0764200119,When Calls the Heart,Janette Oke,1983
 0812541626,The Sum of All Men,David Farland,1998
-0060988649,Lost,"Gregory Maguire, Douglas Smith",2001
+"0060988649,Lost,""Gregory Maguire, Douglas Smith"",2001"
 0446321214,The Naked Face,Sidney Sheldon,1970
 0330369954,Underworld,Don DeLillo,1997
 0062380877,This Savage Song,Victoria Schwab,2016
@@ -756,7 +755,7 @@ isbn,title,author,year
 140679239X,To The Lighthouse ,Virginia Woolf,1927
 0312656289,Heaven,Alexandra Adornetto,2012
 0441015271,Captain's Fury,Jim Butcher,2007
-1416974520,"Night World, No. 3",L.J. Smith,2009
+"1416974520,""Night World, No. 3"",L.J. Smith,2009"
 0439050227,David Gets in Trouble,David Shannon,2002
 1476731535,Beautiful Stranger,Christina Lauren,2013
 0425212033,Grave Surprise,Charlaine Harris,2006
@@ -771,14 +770,14 @@ isbn,title,author,year
 0064440206,Frog and Toad Are Friends,Arnold Lobel,1970
 0689865384,Uglies,Scott Westerfeld,2005
 0553582461,Fool's Fate,Robin Hobb,2003
-0061138010,"White Witch, Black Curse",Kim Harrison,2009
+"0061138010,""White Witch, Black Curse"",Kim Harrison,2009"
 044900483X,Children of God,Mary Doria Russell,1998
 0446604844,Total Control,David Baldacci,1996
 0449213447,The Chosen,Chaim Potok,1967
 075283455X,Terms of Endearment,Larry McMurtry,1975
 0684815001,Nachfolge,Dietrich Bonhoeffer,1937
 0676979564,The Virgin Cure,Ami McKay,2011
-0142002070,"From Russia, with Love",Ian Fleming,1957
+"0142002070,""From Russia, with Love"",Ian Fleming,1957"
 0547152604,Okay for Now,Gary D. Schmidt,2011
 0375724370,Anil's Ghost,Michael Ondaatje,2000
 0316036196,Fang,James Patterson,2010
@@ -859,14 +858,14 @@ isbn,title,author,year
 0060838728,Bel Canto,Ann Patchett,2001
 0718154959,Blue Monday,Nicci French,2011
 000710653X,Charmed Life ,Diana Wynne Jones,1977
-0446569895,I Am Ozzy,"Ozzy Osbourne, Chris Ayres",2009
+"0446569895,I Am Ozzy,""Ozzy Osbourne, Chris Ayres"",2009"
 0743294386,Devil Bones,Kathy Reichs,2008
 0930452895,Driving Miss Daisy,Alfred Uhry,1986
 1414310560,The Negotiator,Dee Henderson,2000
 1455807044,The Perfect Hope,Nora Roberts,2012
 061870986X,In the Lake of the Woods,Tim O'Brien,1994
 034553364X,Trapped ,Kevin Hearne,2012
-0060577371,Physik,"Angie Sage, Mark Zug",2007
+"0060577371,Physik,""Angie Sage, Mark Zug"",2007"
 0141184272,Orlando: A Biography,Virginia Woolf,1928
 0812515285,A Fire Upon The Deep,Vernor Vinge,1992
 0743299841,Day After Night,Anita Diamant,2009
@@ -920,7 +919,7 @@ isbn,title,author,year
 0312181108,I Capture the Castle,Dodie Smith,1948
 159514322X,The Ruby Circle,Richelle Mead,2015
 0399158278,Taken,Robert Crais,2012
-0446699454,"Between, Georgia",Joshilyn Jackson,2006
+"0446699454,""Between, Georgia"",Joshilyn Jackson,2006"
 0345497457,Shugo Chara! 1 (Shugo Chara!),Peach-Pit,2006
 0807083690,Kindred,Octavia E. Butler,1979
 0061345695,Rumors,Anna Godbersen,2008
@@ -930,7 +929,7 @@ isbn,title,author,year
 0192833596,Great Expectations,Charles Dickens,1860
 0446696129,The Rescue,Nicholas Sparks,2000
 0743484274,The Cradle Will Fall,Mary Higgins Clark,1980
-0765354942,Relic,"Douglas Preston, Lincoln Child",1995
+"0765354942,Relic,""Douglas Preston, Lincoln Child"",1995"
 0425267067,Fever,Maya Banks,2013
 0573613311,The Odd Couple,Neil Simon,1965
 052595158X,Caught,Harlan Coben,2010
@@ -942,7 +941,7 @@ isbn,title,author,year
 0312555113,The Chosen One,Carol Lynch Williams,2009
 0385533853,Robopocalypse,Daniel H. Wilson,2011
 0553214322,The Island of Dr. Moreau,H.G. Wells,1896
-0141301066,Matilda,"Roald Dahl, Quentin Blake",1988
+"0141301066,Matilda,""Roald Dahl, Quentin Blake"",1988"
 0446695661,Double Whammy,Carl Hiaasen,1987
 0812974018,Black Swan Green,David Mitchell,2006
 0061259349,Secrets of a Summer Night,Lisa Kleypas,2004
@@ -976,7 +975,7 @@ isbn,title,author,year
 0671704656,Treasure,Clive Cussler,1988
 1250049377,Landline,Rainbow Rowell,2014
 0473235501,Love & Misadventure,Lang Leav,2013
-067972477X,"I, Claudius",Robert Graves,1934
+"067972477X,""I, Claudius"",Robert Graves,1934"
 0091940737,How to Be a Woman,Caitlin Moran,2011
 2290011150,Alien,Alan Dean Foster,1979
 0385339593,The Summons,John Grisham,2002
@@ -988,7 +987,7 @@ isbn,title,author,year
 0375421874,The Minority Report,Philip K. Dick,1956
 0749934085,Immortal in Death ,J.D. Robb,1996
 1400063841,Last Night in Twisted River,John Irving,2009
-0842382895,Return,"Karen Kingsbury, Gary Smalley",2003
+"0842382895,Return,""Karen Kingsbury, Gary Smalley"",2003"
 0446564087,Deliver Us From Evil,David Baldacci,2010
 0393312801,The Acid House,Irvine Welsh,1994
 0060584025,Metro Girl,Janet Evanovich,2004
@@ -1002,7 +1001,7 @@ isbn,title,author,year
 0385340605,Deal Breaker,Harlan Coben,1995
 0765316897,The Hero of Ages,Brandon Sanderson,2008
 0786887079,Lipstick Jungle,Candace Bushnell,2005
-1585673927,"Carry On, Jeeves",P.G. Wodehouse,1925
+"1585673927,""Carry On, Jeeves"",P.G. Wodehouse,1925"
 0345335651,Queen of Sorcery,David Eddings,1982
 0545142997,Numbers,Rachel Ward,2008
 0763631620,The Gift,Alison Croggon,2002
@@ -1015,7 +1014,7 @@ isbn,title,author,year
 0857532014,The Screaming Staircase,Jonathan Stroud,2013
 0399158448,The Peripheral,William Gibson,2014
 0060788380,For a Few Demons More ,Kim Harrison,2007
-0679746048,"Girl, Interrupted",Susanna Kaysen,1993
+"0679746048,""Girl, Interrupted"",Susanna Kaysen,1993"
 0345441702,The Sicilian,Mario Puzo,1984
 0061474096,Anathem,Neal Stephenson,2008
 1419704281,Splintered,A.G. Howard,2013
@@ -1051,7 +1050,7 @@ isbn,title,author,year
 0062409859,Go Set a Watchman,Harper Lee,2015
 038534385X,Homer's Odyssey ,Gwen Cooper,2009
 0553381679,The Clan of the Cave Bear,Jean M. Auel,1980
-0439829127,"The Third Day, The Frost",John Marsden,1995
+"0439829127,""The Third Day, The Frost"",John Marsden,1995"
 0805080481,The Book of Three,Lloyd Alexander,1964
 0394720954,Master of the Senate,Robert A. Caro,2002
 0425134350,Patriot Games,Tom Clancy,1987
@@ -1095,7 +1094,7 @@ isbn,title,author,year
 1847673767,The Death of Bunny Munro,Nick Cave,2009
 0451471474,I Was Here,Gayle Forman,2015
 0385351232,Longbourn,Jo Baker,2013
-0152010661,Time for Bed,"Mem Fox, Jane Dyer",1993
+"0152010661,Time for Bed,""Mem Fox, Jane Dyer"",1993"
 0440421705,Hoot,Carl Hiaasen,2002
 0316194689,Ask the Passengers,A.S. King,2012
 1455559822,Memory Man,David Baldacci,2015
@@ -1111,7 +1110,7 @@ isbn,title,author,year
 158648303X,Auschwitz: A New History,Laurence Rees,2005
 0060988657,Mirror Mirror,Gregory Maguire,2003
 0804113475,Ladder of Years,Anne Tyler,1995
-0425142485,The Funhouse,"Owen  West, Dean Koontz",1980
+"0425142485,The Funhouse,""Owen  West, Dean Koontz"",1980"
 0375758232,Paris to the Moon,Adam Gopnik,2000
 0679728740,Child of God,Cormac McCarthy,1973
 0340893613,Sapphique,Catherine Fisher,2000
@@ -1124,7 +1123,7 @@ isbn,title,author,year
 0753453800,Treasure Island,Robert Louis Stevenson,1882
 0812511816,The Eye of the World,Robert Jordan,1990
 0312377045,Bury Your Dead,Louise Penny,2010
-1594488878,"Juliet, Naked",Nick Hornby,2009
+"1594488878,""Juliet, Naked"",Nick Hornby,2009"
 0670038571,Second Chance,Jane Green,2007
 0312361270,The Gatecrasher,Madeleine Wickham,1998
 031298166X,Crooked House,Agatha Christie,1949
@@ -1133,7 +1132,7 @@ isbn,title,author,year
 0307263940,Digging to America,Anne Tyler,2006
 1480095532,The Edge of Never,J.A. Redmerski,2012
 1846164257,The Fire Eternal,Chris d'Lacey,2007
-0679805273,"Oh, the Places You'll Go!",Dr. Seuss,1990
+"0679805273,""Oh, the Places You'll Go!"",Dr. Seuss,1990"
 1400066124,Letter to My Daughter,Maya Angelou,2008
 0316066346,The Girls,Lori Lansens,2005
 0670063118,Eona: The Last Dragoneye,Alison Goodman,2011
@@ -1163,7 +1162,7 @@ isbn,title,author,year
 0385537131,Sycamore Row,John Grisham,2013
 0316010707,Case Histories,Kate Atkinson,2004
 1250128544,Love Warrior,Glennon Doyle Melton,2016
-0061351423,Slash,"Slash, Anthony Bozza",2007
+"0061351423,Slash,""Slash, Anthony Bozza"",2007"
 0553153382,Anastasia Krupnik,Lois Lowry,1978
 0749391685,The Commitments,Roddy Doyle,1987
 0451200810,North and South,John Jakes,1982
@@ -1190,7 +1189,7 @@ isbn,title,author,year
 0749934409,Reunion in Death,J.D. Robb,2002
 1455521191,The Escape,David Baldacci,2014
 1420100963,Storm Born,Richelle Mead,2008
-0804192979,Night School,"Lee Child, Dick Hill",2016
+"0804192979,Night School,""Lee Child, Dick Hill"",2016"
 0142001740,The Secret Life of Bees,Sue Monk Kidd,2001
 0380756277,Prisoner of my desire ,Johanna Lindsey,1991
 0345427637,The Angel of Darkness,Caleb Carr,1997
@@ -1227,7 +1226,7 @@ isbn,title,author,year
 0349117624,Jennifer Government,Max Barry,2002
 0007524277,Allegiant,Veronica Roth,2013
 0449818438,Mitosis,Brandon Sanderson,2013
-0140186301,Lucky Jim,"Kingsley Amis, David Lodge",1954
+"0140186301,Lucky Jim,""Kingsley Amis, David Lodge"",1954"
 0446583146,One Summer,David Baldacci,2011
 0061449067,Hunger ,Michael  Grant,2009
 1476791619,A Work in Progress,Connor Franta,2015
@@ -1246,14 +1245,14 @@ isbn,title,author,year
 1416995552,It's Not Summer Without You,Jenny Han,2010
 0449912426,Drei Kameraden,Erich Maria Remarque,1936
 0060788194,A Fistful of Charms,Kim Harrison,2006
-1416530711,"Whitney, My Love",Judith McNaught,1985
+"1416530711,""Whitney, My Love"",Judith McNaught,1985"
 0450542882,Four Past Midnight,Stephen King,1990
 0380018179,The Thorn Birds,Colleen McCullough,1977
 1250034604,That Night,Chevy Stevens,2014
 0345457714,Broken Angels,Richard K. Morgan,2003
 0446195510,True Blue,David Baldacci,2009
 0060764902,The magician's nephew,C.S. Lewis,1953
-0679720219,La peste,"Albert Camus, Stuart Gilbert",1947
+"0679720219,La peste,""Albert Camus, Stuart Gilbert"",1947"
 0061140988,The Fury and Dark Reunion,L.J. Smith,2007
 0307277674,The Da Vinci Code,Dan Brown,2003
 0060725125,Ninth Key,Meg Cabot,2001
@@ -1261,7 +1260,7 @@ isbn,title,author,year
 0241141826,Skippy Dies,Paul Murray,2010
 0786849568,The Lost Colony,Eoin Colfer,2006
 0316018589,Barefoot,Elin Hilderbrand,2007
-0399214577,Owl Moon,"Jane Yolen, John Schoenherr",1987
+"0399214577,Owl Moon,""Jane Yolen, John Schoenherr"",1987"
 0385344228,Defending Jacob,William Landay,2012
 0312306342,Plum Lovin',Janet Evanovich,2007
 1594485755,The Psychopath Test,Jon Ronson,2011
@@ -1277,8 +1276,8 @@ isbn,title,author,year
 1557488150,In His Steps,Charles M. Sheldon,1896
 1467964409,Wife by wednesday,Catherine Bybee,2011
 1439172560,The First Bad Man,Miranda July,2015
-0451229851,"Lover Avenged, part one",J.R. Ward,2010
-0451222725,"Lover Enshrined, part one",J.R. Ward,2008
+"0451229851,""Lover Avenged, part one"",J.R. Ward,2010"
+"0451222725,""Lover Enshrined, part one"",J.R. Ward,2008"
 1594204993,Redeployment,Phil Klay,2014
 0316952664,The Winds of War,Herman Wouk,1971
 0515141658,Morrigan's Cross,Nora Roberts,2006
@@ -1390,7 +1389,7 @@ isbn,title,author,year
 0373772467,The Darkest Night,Gena Showalter,2008
 0099437597,In Watermelon Sugar,Richard Brautigan,1968
 0439236193,White Fang,Jack London,1906
-0142437298,Herzog,"Saul Bellow, Philip Roth",1964
+"0142437298,Herzog,""Saul Bellow, Philip Roth"",1964"
 0802135226,The Passion,Jeanette Winterson,1987
 0345451325,The Fall of Reach,Eric S. Nylund,2001
 1595143203,The Fiery Heart,Richelle Mead,2013
@@ -1408,10 +1407,10 @@ isbn,title,author,year
 1423128192,The Atlantis Complex,Eoin Colfer,2010
 0345335457,Magician's Gambit,David Eddings,1983
 038533379X,Soul On Ice,Eldridge Cleaver,1968
-0425176657,Belinda,"Anne Rice, Anne Rampling",1986
+"0425176657,Belinda,""Anne Rice, Anne Rampling"",1986"
 0061092037,The Fourth Estate,Jeffrey Archer,1996
 0345418476,The One Tree,Stephen R. Donaldson,1982
-0670059838,"Llama, Llama Red Pajama",Anna Dewdney,2005
+"0670059838,""Llama, Llama Red Pajama"",Anna Dewdney,2005"
 0312348266,Secrets of a shoe addict,Beth Harbison,2008
 0756405718,Rosemary and Rue,Seanan McGuire,2009
 0345450728,Distant Shores,Kristin Hannah,2002
@@ -1436,7 +1435,7 @@ isbn,title,author,year
 0345397673,Antrax,Terry Brooks,2001
 145210655X,Darth Vader and Son,Jeffrey Brown,2012
 0140157727,Virtual Light,William Gibson,1993
-1416974512,"Night World, No. 2",L.J. Smith,2008
+"1416974512,""Night World, No. 2"",L.J. Smith,2008"
 0374260508,The Sellout,Paul Beatty,2015
 0316296198,The Magus,John Fowles,1965
 147675666X,We Are Not Ourselves,Matthew  Thomas,2014
@@ -1526,9 +1525,9 @@ isbn,title,author,year
 0451461401,White Night,Jim Butcher,2007
 0307381757,The Heretic Queen,Michelle Moran,2008
 0373210272,My Soul to Steal,Rachel Vincent,2010
-1596436581,In Real Life,"Cory Doctorow, Jen Wang",2014
+"1596436581,In Real Life,""Cory Doctorow, Jen Wang"",2014"
 0440245265,Shades of Midnight,Lara Adrian,2009
-141655484X,Blaze,"Richard Bachman, Stephen King",2007
+"141655484X,Blaze,""Richard Bachman, Stephen King"",2007"
 0345539788,Red Rising,Pierce Brown,2014
 0451475496,Eeny Meeny,M.J. Arlidge,2014
 0375836977,A Color of His Own,Leo Lionni,1975
@@ -1547,7 +1546,7 @@ isbn,title,author,year
 039480001X,The Cat in the Hat,Dr. Seuss,1957
 0142003239,Live and Let Die,Ian Fleming,1954
 0553578529,Into the Wilderness,Sara Donati,1998
-1416963987,Doll Bones,"Holly Black, Eliza Wheeler",2013
+"1416963987,Doll Bones,""Holly Black, Eliza Wheeler"",2013"
 0671725661,West Side Story,Irving Shulman,1961
 0441010644,Chasm City,Alastair Reynolds,2001
 0307590615,Decision Points,George W. Bush,2010
@@ -1562,7 +1561,7 @@ isbn,title,author,year
 042518546X,Open Season,C.J. Box,2001
 0316734837,Fortune's Rocks,Anita Shreve,1999
 0312595670,Still Missing,Chevy Stevens,2010
-0060577363,Flyte,"Angie Sage, Mark Zug",2006
+"0060577363,Flyte,""Angie Sage, Mark Zug"",2006"
 0316769177,The Catcher in the Rye,J.D. Salinger,1951
 0441012396,Deerskin,Robin McKinley,1993
 0345545850,Complete Me,J. Kenner,2013
@@ -1595,7 +1594,7 @@ isbn,title,author,year
 0452286034,Bitten,Kelley Armstrong,2001
 0142407380,Ark Angel,Anthony Horowitz,2005
 0425285049,The Girl Before,J.P. Delaney,2017
-0060741872,"Alas, Babylon",Pat Frank,1959
+"0060741872,""Alas, Babylon"",Pat Frank,1959"
 0749934123,Ceremony in Death,J.D. Robb,1997
 0452283868,Sula,Toni Morrison,1973
 0061020702,The Light Fantastic,Terry Pratchett,1986
@@ -1633,7 +1632,7 @@ isbn,title,author,year
 0891343377,Keys to Drawing,Bert Dodson,1985
 1400067111,Shanghai Girls,Lisa See,2009
 0385350813,Dept. of Speculation,Jenny Offill,2014
-1250000238,Dragon's Oath,"P.C. Cast, Kristin Cast",2011
+"1250000238,Dragon's Oath,""P.C. Cast, Kristin Cast"",2011"
 0515138819,Sunshine,Robin McKinley,2003
 054705484X,Indignation,Philip Roth,2008
 1935089447,Sophie & Carter,Chelsea Fine,2011
@@ -1730,7 +1729,7 @@ isbn,title,author,year
 0525951059,Long Lost,Harlan Coben,2009
 0439856264,Mister Monday,Garth Nix,2003
 0316252964,My Cousin Rachel,Daphne du Maurier,1951
-1416927883,"Stormy, Misty's Foal",Marguerite Henry,1963
+"1416927883,""Stormy, Misty's Foal"",Marguerite Henry,1963"
 037321099X,Crash Into You,Katie McGarry,2013
 0440418518,A Single Shard,Linda Sue Park,2001
 1459245954,Afterburn,Sylvia Day,2013
@@ -1746,7 +1745,7 @@ isbn,title,author,year
 0425138232,Eye of the Storm,Jack Higgins,1992
 0812970438,Chesapeake,James A. Michener,1978
 0441011241,Tales from Earthsea,Ursula K. Le Guin,2001
-055350584X,"Darkness, Take My Hand",Dennis Lehane,1996
+"055350584X,""Darkness, Take My Hand"",Dennis Lehane,1996"
 1579126251,Murder at the Vicarage,Agatha Christie,1930
 0575058080,Maskerade,Terry Pratchett,1995
 1250006333,Ascend,Amanda Hocking,2012
@@ -1758,7 +1757,7 @@ isbn,title,author,year
 0553578553,Dawn on a Distant Shore,Sara Donati,2000
 0006513905,The Dice Man,Luke Rhinehart,1971
 0749934174,Conspiracy in Death,J.D. Robb,1999
-0805072454,Peter Pan,"J.M. Barrie, Michael Hague",1904
+"0805072454,Peter Pan,""J.M. Barrie, Michael Hague"",1904"
 0425263916,Reflected in You,Sylvia Day,2012
 045121577X,The Innocent,Harlan Coben,2005
 0618446877,Dark Star Safari ,Paul Theroux,2002
@@ -1773,7 +1772,7 @@ isbn,title,author,year
 1579126243,The ABC Murders,Agatha Christie,1936
 1595542884,Green,Ted Dekker,2009
 0060733497,The Lions of Al-Rassan,Guy Gavriel Kay,1995
-0316201642,S.,"J.J. Abrams, Doug Dorst",2013
+"0316201642,S.,""J.J. Abrams, Doug Dorst"",2013"
 0307700003,The Buddha in the Attic,Julie Otsuka,2011
 0553813153,The Bonehunters,Steven Erikson,2006
 044018293X,Suffer the Children,John Saul,1977
@@ -1853,7 +1852,7 @@ isbn,title,author,year
 0440221315,The Gift,Danielle Steel,1986
 1596911050,JPod,Douglas Coupland,2006
 0316015849,Twilight,Stephenie Meyer,2005
-1250000246,Lenobia's Vow,"P.C. Cast, Kristin Cast",2012
+"1250000246,Lenobia's Vow,""P.C. Cast, Kristin Cast"",2012"
 034551548X,Ice Cold,Tess Gerritsen,2010
 1596060204,Agent to the stars,John Scalzi,2004
 1609074602,Blackmoore,Julianne Donaldson,2013
@@ -1897,7 +1896,7 @@ isbn,title,author,year
 1841493007,Living Dead in Dallas,Charlaine Harris,2002
 0316123358,The Heroes,Joe Abercrombie,2011
 0316777730,Naked,David Sedaris,1997
-1419710206,El Deafo,"Cece Bell, David Lasky",2014
+"1419710206,El Deafo,""Cece Bell, David Lasky"",2014"
 0345327861,Crystal Singer,Anne McCaffrey,1982
 1416585834,Dog on It,Spencer Quinn,2008
 0525422242,Twelfth Grade Kills,Heather Brewer,2010
@@ -1944,7 +1943,7 @@ isbn,title,author,year
 080413717X,City of Stairs,Robert Jackson Bennett,2014
 0007120818,The Big Four,Agatha Christie,1927
 0143036378,Disgrace,J.M. Coetzee,1999
-1416974504,"Night World, No. 1",L.J. Smith,2008
+"1416974504,""Night World, No. 1"",L.J. Smith,2008"
 0385741391,The Eye of Minds,James Dashner,2013
 0316069515,The Gods of Guilt,Michael Connelly,2013
 044101268X,Furies of Calderon ,Jim Butcher,2004
@@ -1998,7 +1997,7 @@ isbn,title,author,year
 0521293731,The Winter's Tale,William Shakespeare,1600
 0743294254,Certain Girls,Jennifer Weiner,2000
 0618194576,Flotsam,David Wiesner,2006
-0689861133,"Moo, Baa, La La La!",Sandra Boynton,1982
+"0689861133,""Moo, Baa, La La La!"",Sandra Boynton,1982"
 0679457143,The Cobra Event,Richard   Preston,1997
 074341196X,Inversions,Iain M. Banks,1998
 0061996165,Unearthly,Cynthia Hand,2011
@@ -2011,7 +2010,7 @@ isbn,title,author,year
 055299877X,More Tales of the City,Armistead Maupin,1980
 0451219422,The Omen,David Seltzer,1976
 0446604089,The Best Laid Plans,Sidney Sheldon,1997
-0312650248,Awakened,"P.C. Cast, Kristin Cast",2011
+"0312650248,Awakened,""P.C. Cast, Kristin Cast"",2011"
 0399155813,Black Hills,Nora Roberts,2009
 0380508567,The Foundation Trilogy,Isaac Asimov,1953
 0230711251,Heartstone,C.J. Sansom,2010
@@ -2038,11 +2037,11 @@ isbn,title,author,year
 0671726528,Kon-Tiki Ekspedisjonen,Thor Heyerdahl,1948
 067102082X,The Gun Seller,Hugh Laurie,1996
 0440217490,A Dangerous Fortune,Ken Follett,1993
-1416940901,"Glass (Crank, #2)",Ellen Hopkins,2007
+"1416940901,""Glass (Crank, #2)"",Ellen Hopkins,2007"
 0062081012,Twisted,Sara Shepard,2011
 0778313468,The Good Father,Diane Chamberlain,2012
 0778316335,Little Mercies,Heather Gudenkauf,2014
-0192839993,Dubliners,"James Joyce, Jeri Johnson",1914
+"0192839993,Dubliners,""James Joyce, Jeri Johnson"",1914"
 0505523892,Dark Magic,Christine Feehan,2000
 1842323008,A Town Like Alice,Nevil Shute,1950
 0545284139,The False Prince,Jennifer A. Nielsen,2012
@@ -2091,7 +2090,7 @@ isbn,title,author,year
 0062200461,Sense & Sensibility,Joanna Trollope,2013
 2081354802,Soumission ,Michel Houellebecq,2015
 0310321913,One Thousand Gifts,Ann Voskamp,2011
-0394800206,"Go, Dog. Go!",P.D. Eastman,1961
+"0394800206,""Go, Dog. Go!"",P.D. Eastman,1961"
 0226320618,The Road to Serfdom,Friedrich A. Hayek,1944
 014023313X,The Stone Diaries,Carol Shields,1993
 0060527986,Manual do guerreiro da luz,Paulo Coelho,1997
@@ -2186,7 +2185,7 @@ isbn,title,author,year
 0345524594,Moon Over Soho,Ben Aaronovitch,2011
 1401323820,Heat Wave,Richard Castle,2008
 145558116X,Friction,Sandra Brown,2015
-0446619035,"Mary, Mary",James Patterson,2005
+"0446619035,""Mary, Mary"",James Patterson,2005"
 0446359203,Carrion Comfort,Dan Simmons,1989
 0786856866,The Sea of Monsters,Rick Riordan,2006
 1741753597,The Slap,Christos Tsiolkas,2008
@@ -2225,7 +2224,7 @@ isbn,title,author,year
 0446671002,The Celestine Prophecy,James Redfield,1993
 1442413174,The Eternal Dawn,Christopher Pike,2010
 0380752859,For Love of Evil,Piers Anthony,1988
-0141311428,Going Solo,"Roald Dahl, Quentin Blake",1986
+"0141311428,Going Solo,""Roald Dahl, Quentin Blake"",1986"
 0451199901,They Do it with Mirrors,Agatha Christie,1952
 0805094601,Siege and Storm,Leigh Bardugo,2013
 0007251866,A Bruxa de Portobello,Paulo Coelho,2006
@@ -2237,7 +2236,7 @@ isbn,title,author,year
 0425172902,The Hunt for Red October,Tom Clancy,1984
 0312948557,Still Life,Louise Penny,2005
 0316734950,Echo Park,Michael Connelly,2006
-0451233166,"Lover Avenged, part two",J.R. Ward,2011
+"0451233166,""Lover Avenged, part two"",J.R. Ward,2011"
 0451464400,Cold Days,Jim Butcher,2012
 0778322858,Me & Emma,Elizabeth Flock,2005
 0141019085,A Death In Vienna,Daniel Silva,2003
@@ -2366,7 +2365,7 @@ isbn,title,author,year
 1908844965,Stolen Songbird,Danielle L. Jensen,2014
 0451216954,Dark Lover,J.R. Ward,2005
 0345524616,Whispers Under Ground,Ben Aaronovitch,2012
-006440174X,"Good Night, Mr. Tom",Michelle Magorian,1981
+"006440174X,""Good Night, Mr. Tom"",Michelle Magorian,1981"
 0143038109,The Kitchen God's Wife,Amy Tan,1991
 1582349061,Enna Burning,Shannon Hale,2004
 0395083621,Mein Kampf,Adolf Hitler,1925
@@ -2398,7 +2397,7 @@ isbn,title,author,year
 0345416260,Pope Joan,Donna Woolfolk Cross,1996
 0345459210,The Flood,William C. Dietz,2003
 0553212281,The Tell-Tale Heart,Edgar Allan Poe,1843
-006202468X,Wildwood,"Colin Meloy, Carson Ellis",2011
+"006202468X,Wildwood,""Colin Meloy, Carson Ellis"",2011"
 1594482225,The Areas of My Expertise,John Hodgman,2005
 0099468190,Bleachers,John Grisham,2003
 0330314920,Outer Dark,Cormac McCarthy,1968
@@ -2444,11 +2443,11 @@ isbn,title,author,year
 0140505393,Miss Rumphius,Barbara Cooney,1981
 0722536542,O Monte Cinco,Paulo Coelho,1996
 0451234871,Last Breath,Rachel Caine,2011
-0152057803,Tangerine,"Edward Bloor, Danny De Vito",1997
+"0152057803,Tangerine,""Edward Bloor, Danny De Vito"",1997"
 0425246957,About That Night,Julie James,2012
 0425204669,The Laughing Corpse,Laurell K. Hamilton,1994
 1416983090,Thirst No. 2,Christopher Pike,2010
-0679720227,La Chute,"Albert Camus, Justin O'Brien",1956
+"0679720227,La Chute,""Albert Camus, Justin O'Brien"",1956"
 0765336405,The Emperor's Blades,Brian Staveley,2014
 1451661509,The Silver Star,Jeannette Walls,2013
 078915479X,The Story of an Hour,Kate Chopin,1894
@@ -2500,7 +2499,7 @@ isbn,title,author,year
 045146091X,Dead Beat,Jim Butcher,2005
 039474067X,Orientalism,Edward Said,1978
 0394758250,The Lady in the Lake,Raymond Chandler,1943
-0060753943,Winning,"Jack Welch, Suzy Welch",1992
+"0060753943,Winning,""Jack Welch, Suzy Welch"",1992"
 1904910033,You Can Win,Shiv Khera,1998
 9735004100,Maitreyi,Mircea Eliade,1933
 0752858521,The Aquitaine Progression,Robert Ludlum,1984
@@ -2530,7 +2529,7 @@ isbn,title,author,year
 1250001544,Third Grave Dead Ahead,Darynda Jones,2012
 0749935332,Blue Dahlia,Nora Roberts,2004
 0525955097,Fool Me Once,Harlan Coben,2016
-142150605X,"Black Cat, Volume 1",Kentaro Yabuki,2001
+"142150605X,""Black Cat, Volume 1"",Kentaro Yabuki,2001"
 0425280101,Stars of Fortune,Nora Roberts,2015
 038070952X,Ramona and Her Mother,Beverly Cleary,1980
 0441014151,Accelerando,Charles Stross,2005
@@ -2547,12 +2546,12 @@ isbn,title,author,year
 0553381652,The Plains of Passage,Jean M. Auel,1990
 0099556316,Airframe,Michael Crichton,1996
 1625173431,Clean Sweep,Ilona Andrews,2012
-0380730359,"Gone, Baby, Gone",Dennis Lehane,1998
+"0380730359,""Gone, Baby, Gone"",Dennis Lehane,1998"
 1405915293,Daughter,Jane Shemilt,2014
 0441020011,Frost Burned,Patricia Briggs,2013
 0312349486,Twelve Sharp,Janet Evanovich,2006
 0743218574,Flyy Girl,Omar Tyree,1993
-0449911659,"Rabbit, Run",John Updike,1960
+"0449911659,""Rabbit, Run"",John Updike,1960"
 0156421356,Homo faber: Ein Bericht,Max Frisch,1957
 0449138240,The Howling,Gary Brandner,1977
 0312656270,Hades,Alexandra Adornetto,2011
@@ -2586,7 +2585,7 @@ isbn,title,author,year
 0345338588,On a Pale Horse,Piers Anthony,1983
 0586008357,The Caves of Steel,Isaac Asimov,1954
 0345533623,Tricked,Kevin Hearne,2012
-0349400202,"Envy (Fallen Angels, #3)",J.R. Ward,2011
+"0349400202,""Envy (Fallen Angels, #3)"",J.R. Ward,2011"
 0316014281,Light on Snow,Anita Shreve,2004
 1406321346,Clockwork Princess,Cassandra Clare,2013
 0778315339,The Returned,Jason Mott,2013
@@ -2658,7 +2657,7 @@ isbn,title,author,year
 061858532X,A Certain Slant of Light,Laura Whitcomb,2005
 0060531827,Airborn,Kenneth Oppel,2004
 0439846803,The Stonekeeper,Kazu Kibuishi,2008
-0547887205,"Son (The Giver, #4)",Lois Lowry,2012
+"0547887205,""Son (The Giver, #4)"",Lois Lowry,2012"
 0060002492,Amazonia,James Rollins,2002
 1594202249,Inherent Vice,Thomas Pynchon,2009
 1455531189,You'll Grow Out of It,Jessi Klein,2016
@@ -2731,7 +2730,7 @@ isbn,title,author,year
 0307959945,The Dog Stars,Peter Heller,2012
 1301786454,Music of the Heart,Katie Ashley,2013
 0517548233,Economics in One Lesson,Henry Hazlitt,1946
-0802714625,Longitude,"Dava Sobel, Neil Armstrong",1995
+"0802714625,Longitude,""Dava Sobel, Neil Armstrong"",1995"
 1891830430,Blankets,Craig Thompson,2003
 0399154221,The Secret Servant,Daniel Silva,2007
 0062083392,After I'm Gone,Laura Lippman,2014
@@ -2758,14 +2757,14 @@ isbn,title,author,year
 0778322335,A Perfect Evil,Alex Kava,2000
 0590554085,Sandry's Book,Tamora Pierce,1997
 033039780X,Forever . . .,Judy Blume,1975
-0446675369,"Bless Me, Ultima",Rudolfo Anaya,1972
+"0446675369,""Bless Me, Ultima"",Rudolfo Anaya,1972"
 0553241605,Mila 18,Leon Uris,1961
 1937044963,The Marriage Bargain,Jennifer Probst,2012
 0615487424,Requiem (Providence #2),Jamie McGuire,2011
 0316216852,The Shining Girls,Lauren Beukes,2013
 0505524473,Dark Fire,Christine Feehan,2001
 0060531258,On the Way to Wedding,Julia Quinn,2006
-0142003808,Drop City,"T.C. Boyle, Richard Poe",2003
+"0142003808,Drop City,""T.C. Boyle, Richard Poe"",2003"
 1484724984,Star Wars: Lost Stars,Claudia Gray,2015
 034537472X,The Sapphire Rose ,David Eddings,1991
 0385339690,The Runaway Jury,John Grisham,1996
@@ -2807,7 +2806,7 @@ isbn,title,author,year
 0330425781,Graffiti Moon,Cath Crowley,2010
 0060577312,Magyk,Angie Sage,2005
 0385540353,The Heart Goes Last,Margaret Atwood,2015
-1589190645,"These High, Green Hills",Jan Karon,1995
+"1589190645,""These High, Green Hills"",Jan Karon,1995"
 0743222253,Living History,Hillary Rodham Clinton,2003
 1420925539,A Study in Scarlet,Arthur Conan Doyle,1887
 1595541217,Monster,Frank E. Peretti,2005
@@ -2854,13 +2853,13 @@ isbn,title,author,year
 078683661X,SilverFin,Charlie Higson,2005
 1439136823,Lothaire,Kresley Cole,2012
 038039586X,Watership Down,Richard Adams,1972
-0689865198,"Crank (Crank, #1)",Ellen Hopkins,2004
+"0689865198,""Crank (Crank, #1)"",Ellen Hopkins,2004"
 0345418468,The Wounded Land,Stephen R. Donaldson,1979
 0451528824,Anne of Green Gables,L.M. Montgomery,1908
 0141321318,The Eternity Code,Eoin Colfer,2003
 0739439065,Key of Knowledge,Nora Roberts,2003
 1501126229,Lily and the Octopus,Steven  Rowley,2016
-0440174244,"Rich Man, Poor Man",Irwin Shaw,1969
+"0440174244,""Rich Man, Poor Man"",Irwin Shaw,1969"
 0380809060,The Great Book of Amber,Roger Zelazny,1999
 0553807250,Love You More,Lisa Gardner,2011
 0374104115,Acceptance,Jeff VanderMeer,2014
@@ -2880,7 +2879,7 @@ isbn,title,author,year
 0446607711,The Simple Truth,David Baldacci,1998
 0062068520,A Rogue by Any Other Name,Sarah MacLean,2012
 1501129740,End of Watch,Stephen King,2016
-0060928417,La lenteur,"Milan Kundera, Linda Asher",1995
+"0060928417,La lenteur,""Milan Kundera, Linda Asher"",1995"
 0843955848,The Colorado Kid,Stephen King,2005
 0316229296,The Fifth Season,N.K. Jemisin,2015
 0006551815,'Tis: A Memoir,Frank McCourt,1999
@@ -2939,7 +2938,7 @@ isbn,title,author,year
 1423176375,All Our Yesterdays,Cristin Terrill,2013
 0385491034,The Robber Bride,Margaret Atwood,1993
 1501141511,Born to Run,Bruce Springsteen,2016
-0743297318,"Look Homeward, Angel",Thomas Wolfe,1929
+"0743297318,""Look Homeward, Angel"",Thomas Wolfe,1929"
 0312368461,Heartsick,Chelsea Cain,2007
 140003003X,My Life,Bill Clinton,2004
 0385498802,Bee Season,Myla Goldberg,2000
@@ -2968,7 +2967,7 @@ isbn,title,author,year
 0439436575,Sir Thursday,Garth Nix,2006
 0061458570,Big Brother,Lionel Shriver,2013
 0345367693,The Diamond Throne,David Eddings,1989
-0394726413,"Bright Lights, Big City",Jay McInerney,1984
+"0394726413,""Bright Lights, Big City"",Jay McInerney,1984"
 045052468X,The Dark Half,Stephen King,1989
 0062071165,Everbound,Brodi Ashton,2013
 0751534552,Legally Blonde,Amanda Brown,2001
@@ -3018,7 +3017,7 @@ isbn,title,author,year
 0316769029,Franny and Zooey,J.D. Salinger,1961
 0340752459,September,Rosamunde Pilcher,1990
 0385341067,Mister Pip,Lloyd Jones,2006
-0345470583,xxxHOLiC #1,"CLAMP, William Flanagan",2003
+"0345470583,xxxHOLiC #1,""CLAMP, William Flanagan"",2003"
 0886774012,Magic's Promise,Mercedes Lackey,1990
 222109073X,Hell's Angels,Hunter S. Thompson,1966
 1857231031,Wizard at Large ,Terry Brooks,1987
@@ -3046,7 +3045,7 @@ isbn,title,author,year
 034541800X,The Water-Method Man,John Irving,1972
 0425188930,The Damnation Game,Clive Barker,1985
 0765340054,Shadow Puppets,Orson Scott Card,2002
-9504915248,Brida,"Paulo Coelho, Montserrat Mira",1990
+"9504915248,Brida,""Paulo Coelho, Montserrat Mira"",1990"
 0060815701,Priestess of the White,Trudi Canavan,2005
 0060887338,Flawless,Sara Shepard,2007
 3426615355,How to Be Good,Nick Hornby,2001
@@ -3065,10 +3064,10 @@ isbn,title,author,year
 0380818809,Deep Fathom,James Rollins,2001
 0340818670,Hearts in Atlantis,Stephen King,1999
 0755309510,The Island,Victoria Hislop,2005
-0609809105,"I, Elizabeth",Rosalind Miles,1992
+"0609809105,""I, Elizabeth"",Rosalind Miles,1992"
 0307962903,Astonish Me,Maggie Shipstead,2014
 0439050235,Duck On A Bike,David Shannon,2002
-043985802X,"Darkness, Be My Friend",John Marsden,1996
+"043985802X,""Darkness, Be My Friend"",John Marsden,1996"
 0441006108,Mattimeo,Brian Jacques,1990
 1770460608,Hark! A Vagrant,Kate Beaton,2011
 0385737424,When You Reach Me,Rebecca Stead,2009
@@ -3113,7 +3112,7 @@ isbn,title,author,year
 000721975X,The Burning Land,Bernard Cornwell,2009
 0778325644,Storm Glass,Maria V. Snyder,2009
 0385738773,The Death Cure,James Dashner,2011
-0084386874,Rejoice,"Karen Kingsbury, Gary Smalley",2004
+"0084386874,Rejoice,""Karen Kingsbury, Gary Smalley"",2004"
 0385613466,Before I Die,Jenny Downham,2007
 0373210132,The Iron Daughter,Julie Kagawa,2010
 0399158987,W is for Wasted,Sue Grafton,2013
@@ -3165,10 +3164,10 @@ isbn,title,author,year
 0316182745,Paint It Black,Janet Fitch,2006
 849759388X,Paula,Isabel Allende,1994
 0345465083,Seabiscuit,Laura Hillenbrand,1999
-0141318309,The Twits,"Roald Dahl, Quentin Blake",1980
+"0141318309,The Twits,""Roald Dahl, Quentin Blake"",1980"
 1416544208,Eating the Dinosaur,Chuck Klosterman,2009
 0142002062,Moonraker,Ian Fleming,1955
-1905654871,Destined,"P.C. Cast, Kristin Cast",2011
+"1905654871,Destined,""P.C. Cast, Kristin Cast"",2011"
 1400076196,Saturday,Ian McEwan,2005
 0061161640,Making Money,Terry Pratchett,2007
 0349113912,Me Talk Pretty One Day,David Sedaris,2000
@@ -3178,7 +3177,7 @@ isbn,title,author,year
 0060733357,The Confusion,Neal Stephenson,2004
 0345476875,Interview with the Vampire,Anne Rice,1976
 0679732764,Invisible Man,Ralph Ellison,1952
-0307749606,A Wanted Man,"Lee Child, Dick Hill",2012
+"0307749606,A Wanted Man,""Lee Child, Dick Hill"",2012"
 0393307611,H.M.S. Surprise ,Patrick O'Brian,1973
 0446678457,Cane River,Lalita Tademy,2001
 0312342020,A Wolf at the Table,Augusten Burroughs,2008
@@ -3210,7 +3209,7 @@ isbn,title,author,year
 141650964X,The Farthest Shore,Ursula K. Le Guin,1972
 1416589643,The Other Hand,Chris Cleave,2008
 0374384711,The Winner's Crime,Marie Rutkoski,2015
-0399230033,"Good Night, Gorilla",Peggy Rathmann,1994
+"0399230033,""Good Night, Gorilla"",Peggy Rathmann,1994"
 0547229895,The Crossing Places,Elly Griffiths,2009
 0345476883,The Vampire Lestat,Anne Rice,1985
 1416523715,Leaves of Grass,Walt Whitman,1855
@@ -3295,7 +3294,7 @@ isbn,title,author,year
 0451155750,The Dead Zone,Stephen King,1979
 0060009241,See Jane Score,Rachel Gibson,2003
 0312577214,Fly Away,Kristin Hannah,2013
-0553154346,Big Red,"Jim Kjelgaard, Carl Pfeuffer",1945
+"0553154346,Big Red,""Jim Kjelgaard, Carl Pfeuffer"",1945"
 0061470856,Serena,Ron Rash,2008
 0375821821,Flush,Carl Hiaasen,2005
 0679776591,Fugitive Pieces,Anne Michaels,1996
@@ -3354,7 +3353,7 @@ isbn,title,author,year
 0670061018,Twisted,Laurie Halse Anderson,2007
 0441013678,Count Zero,William Gibson,1986
 143913376X,The Puppet Masters,Robert A. Heinlein,1951
-0440993717,The Wave,"Morton Rhue, Todd Strasser",1981
+"0440993717,The Wave,""Morton Rhue, Todd Strasser"",1981"
 0006178715,The Stars Shine Down,Sidney Sheldon,1992
 1595143211,Silver Shadows,Richelle Mead,2014
 0449016196,The End of Eternity,Isaac Asimov,1955
@@ -3381,7 +3380,7 @@ isbn,title,author,year
 044640103X,Pleasure Unbound,Larissa Ione,2008
 1419711326,Hard Luck,Jeff Kinney,2013
 0061659258,Darkest Mercy,Melissa Marr,2011
-0805092528,Rubinrot,"Kerstin Gier, Anthea Bell",2009
+"0805092528,Rubinrot,""Kerstin Gier, Anthea Bell"",2009"
 0060534044,Kisscut,Karin Slaughter,2002
 0446699551,The Closers,Michael Connelly,2005
 0330371231,High Five,Janet Evanovich,1999
@@ -3539,7 +3538,7 @@ isbn,title,author,year
 1468139339,Wait for Me,Elisabeth Naughton,2011
 0316219037,Promise of Blood,Brian  McClellan,2013
 0061120081,To Kill a Mockingbird,Harper Lee,1960
-0517543052,Be Here Now,"Ram Dass, Richard Alpert",1971
+"0517543052,Be Here Now,""Ram Dass, Richard Alpert"",1971"
 044658083X,The Lion,Nelson DeMille,2010
 0743263065,Ironweed,William  Kennedy,1983
 0061431621,The Lollipop Shoes,Joanne Harris,2007
@@ -3575,7 +3574,7 @@ isbn,title,author,year
 0552551317,Girls in Love,Jacqueline Wilson,1997
 0842339655,The Holiness of God,R.C. Sproul,1984
 0061229695,Vampires are Forever,Lynsay Sands,2008
-0805090053,"Girl, Stolen",April Henry,2010
+"0805090053,""Girl, Stolen"",April Henry,2010"
 0316016381,Then We Came to the End,Joshua Ferris,2007
 0439324599,Cut,Patricia McCormick,2000
 145162137X,Brain on Fire,Susannah Cahalan,2012
@@ -3652,7 +3651,7 @@ isbn,title,author,year
 0552154164,Jingo,Terry Pratchett,1997
 1782115080,Reasons To Stay Alive ,Matt Haig,2015
 0545284155,The Runaway King,Jennifer A. Nielsen,2013
-1416950095,"Fallout (Crank, #3)",Ellen Hopkins,2010
+"1416950095,""Fallout (Crank, #3)"",Ellen Hopkins,2010"
 0575070706,The Great Dune Trilogy,Frank Herbert,1977
 0385683421,A Spool of Blue Thread,Anne Tyler,2015
 0007169914,Mr. Brown Can Moo! Can You?,Dr. Seuss,1970
@@ -3730,10 +3729,10 @@ isbn,title,author,year
 0810994739,Rodrick Rules,Jeff Kinney,2008
 0425210278,Predator,Patricia Cornwell,2005
 0143038389,Death Without Company,Craig Johnson,2006
-1905654588,Tempted,"P.C. Cast, Kristin Cast",2008
+"1905654588,Tempted,""P.C. Cast, Kristin Cast"",2008"
 1455520659,The Longest Ride,Nicholas Sparks,2012
 0446695696,Skin Tight,Carl Hiaasen,1989
-1416985794,Intet,"Janne Teller, Martin Aitken",2000
+"1416985794,Intet,""Janne Teller, Martin Aitken"",2000"
 0805445528,Breaking Free,Beth Moore,1999
 0439680093,Raven's Gate,Anthony Horowitz,2005
 1594205388,Lexicon,Max Barry,2013
@@ -3745,7 +3744,7 @@ isbn,title,author,year
 0451218469,Beneath a Marble Sky,John Shors,2004
 0836218310,The Far Side Gallery 3,Gary Larson,1984
 0060855908,Equal Rites,Terry Pratchett,1987
-0451190750,Thinner,"Richard Bachman, Stephen King",1984
+"0451190750,Thinner,""Richard Bachman, Stephen King"",1984"
 0425268780,Prince of Fools,Mark  Lawrence,2014
 0684855631,The Empty Chair ,Jeffery Deaver,2000
 0849945119,Blink,Ted Dekker,2002
@@ -3769,7 +3768,7 @@ isbn,title,author,year
 0446615757,The Christmas Train,David Baldacci,2001
 0142406147,Skeleton Key,Anthony Horowitz,2002
 1455566020,The Last Mile,David Baldacci,2016
-0545326990,Drama,"Raina Telgemeier, Gurihiru",2012
+"0545326990,Drama,""Raina Telgemeier, Gurihiru"",2012"
 0425263924,Entwined with You,Sylvia Day,2013
 034552666X,Great North Road,Peter F. Hamilton,2012
 0399156909,Bad Blood,John Sandford,2010
@@ -3837,7 +3836,7 @@ isbn,title,author,year
 0670032085,Financial Peace Revisited,Dave Ramsey,1992
 031238078X,Save Me,Lisa Scottoline,2011
 0743454510,Second Glance,Jodi Picoult,2003
-0590032496,The Witches,"Roald Dahl, Quentin Blake",1983
+"0590032496,The Witches,""Roald Dahl, Quentin Blake"",1983"
 0062278967,A Thousand Pieces of You,Claudia Gray,2014
 0758211821,Absolute Fear,Lisa Jackson,2007
 0765342405,Ender's Shadow,Orson Scott Card,1998
@@ -3868,7 +3867,7 @@ isbn,title,author,year
 0060763892,The Judas Strain,James Rollins,2007
 0425205959,Cards on the Table,Agatha Christie,1936
 0451219597,Jackdaws,Ken Follett,2001
-1590860624,Without Fail ,"Lee Child, Dick Hill",2002
+"1590860624,Without Fail ,""Lee Child, Dick Hill"",2002"
 0373605692,The Siren,Tiffany Reisz,2012
 0312315732,Little Children,Tom Perrotta,2004
 1861977697,Art of Seduction,Robert Greene,2001
@@ -3925,7 +3924,7 @@ isbn,title,author,year
 0425194523,Raise the Titanic!,Clive Cussler,1976
 0224081187,On Chesil Beach,Ian McEwan,2007
 1595141979,Shadow Kiss,Richelle Mead,2008
-0842386882,Reunion,"Karen Kingsbury, Gary Smalley",2004
+"0842386882,Reunion,""Karen Kingsbury, Gary Smalley"",2004"
 1477823832,The Paper Magician,Charlie N. Holmberg,2014
 1416510567,Fatal Voyage,Kathy Reichs,2001
 044661758X,The Concrete Blonde,Michael Connelly,1994
@@ -3938,7 +3937,7 @@ isbn,title,author,year
 0440416795,Harriet the Spy,Louise Fitzhugh,1964
 0385315546,Drinking: A Love Story,Caroline Knapp,1996
 0061985864,Supernaturally,Kiersten White,2011
-1439192561,"Full Dark, No Stars",Stephen King,2010
+"1439192561,""Full Dark, No Stars"",Stephen King,2010"
 0765309416,The Android's Dream,John Scalzi,2006
 0399158812,Delusion in Death,J.D. Robb,2012
 0679776818,Birdsong,Sebastian Faulks,1993
@@ -3964,9 +3963,9 @@ isbn,title,author,year
 0312997116,As The Crow Flies,Jeffrey Archer,1990
 0679723226,Double Indemnity,James M. Cain,1936
 0312590970,Dark Flame,Alyson Noel,2010
-039915731X,Locked On,"Tom Clancy, Mark Greaney",2011
+"039915731X,Locked On,""Tom Clancy, Mark Greaney"",2011"
 184149593X,The Rogue,Trudi Canavan,2011
-0345472446,"Lucia, Lucia",Adriana Trigiani,2003
+"0345472446,""Lucia, Lucia"",Adriana Trigiani,2003"
 0330487140,A Bend in the River,V.S. Naipaul,1979
 0451203771,The Scarlet Feather,Maeve Binchy,2000
 0140065172,Ordinary People,Judith Guest,1976
@@ -3985,7 +3984,7 @@ isbn,title,author,year
 0312379293,A Prisoner of Birth,Jeffrey Archer,2008
 0446539759,First Family,David Baldacci,2009
 0375724834,Motherless Brooklyn,Jonathan Lethem,1999
-1400041988,Pnin,"Vladimir Nabokov, David Lodge",1953
+"1400041988,Pnin,""Vladimir Nabokov, David Lodge"",1953"
 1476738963,We Are Called to Rise,Laura  McBride,2014
 0765345013,Child of the Prophecy ,Juliet Marillier,2001
 014240120X,The Westing Game,Ellen Raskin,1978
@@ -4012,7 +4011,7 @@ isbn,title,author,year
 033034837X,The Third Twin,Ken Follett,1996
 1400097029,The Sea,John Banville,2005
 0060177241,The Thief of Always,Clive Barker,1992
-0767927567,Escape,"Carolyn Jessop, Laura Palmer",2007
+"0767927567,Escape,""Carolyn Jessop, Laura Palmer"",2007"
 0061662690,The Summoning,Kelley Armstrong,2008
 0385340222,Sisters,Danielle Steel,2007
 0670021040,Caleb's Crossing,Geraldine Brooks,2011
@@ -4035,7 +4034,7 @@ isbn,title,author,year
 0399154213,Invisible Prey,John Sandford,2007
 0395181569,The Little House,Virginia Lee Burton,1942
 1101904224,Dark Matter,Blake Crouch,2016
-1595143424,Virals,"Kathy Reichs, Brendan Reichs",2010
+"1595143424,Virals,""Kathy Reichs, Brendan Reichs"",2010"
 0375414959,Bridge of Sighs,Richard Russo,2007
 0399156399,The Scarpetta Factor ,Patricia Cornwell,2009
 0312348649,Baby Proof,Emily Giffin,2006
@@ -4069,7 +4068,7 @@ isbn,title,author,year
 0345479718,Woken Furies,Richard K. Morgan,2005
 0385336691,The Hard Way,Lee Child,2006
 1416912045,Unwind,Neal Shusterman,2007
-1592402038,"Eats, Shoots and Leaves",Lynne Truss,2003
+"1592402038,""Eats, Shoots and Leaves"",Lynne Truss,2003"
 1551111721,Lord Jim,Joseph Conrad,1900
 0385518331,Dexter in the Dark,Jeff Lindsay,2006
 0060515198,Anansi Boys,Neil Gaiman,2005
@@ -4077,12 +4076,12 @@ isbn,title,author,year
 0060584033,Motor Mouth,Janet Evanovich,2006
 1419122126,Good Wives,Louisa May Alcott,1868
 0441005667,Forever Peace ,Joe Haldeman,1997
-0312594429,Hidden,"P.C. Cast, Kristin Cast",2012
-0310247454,Boundaries,"Henry Cloud, John Townsend",1992
+"0312594429,Hidden,""P.C. Cast, Kristin Cast"",2012"
+"0310247454,Boundaries,""Henry Cloud, John Townsend"",1992"
 0099446782,The Silence of the Lambs,Thomas Harris,1988
 0670038717,First Among Sequels ,Jasper Fforde,2007
 0689869118,Black Water,D.J. MacHale,2004
-0375706860,Kar,"Orhan Pamuk, Maureen Freely",2002
+"0375706860,Kar,""Orhan Pamuk, Maureen Freely"",2002"
 0812975294,The Greatest Generation,Tom Brokaw,1998
 1841493015,Club Dead,Charlaine Harris,2003
 0812504690,The Jungle Book,Rudyard Kipling,1894
@@ -4095,7 +4094,7 @@ isbn,title,author,year
 0545169178,The List,Siobhan Vivian,2012
 0316069418,The Drop,Michael Connelly,2011
 0060278250,Abhorsen,Garth Nix,2003
-1594631395,"Boy, Snow, Bird",Helen Oyeyemi,2013
+"1594631395,""Boy, Snow, Bird"",Helen Oyeyemi,2013"
 1841496863,Bone Crossed,Patricia Briggs,2009
 009928264X,Survivor,Chuck Palahniuk,1999
 1847442404,The Swan Thieves,Elizabeth Kostova,2010
@@ -4122,7 +4121,7 @@ isbn,title,author,year
 0525951652,Fall of Giants,Ken Follett,2010
 044101738X,Hunting Ground,Patricia Briggs,2009
 1608190463,The Scar of David,Susan Abulhawa,2006
-0439244196,Holes,"Louis Sachar, Louis Sachar",1998
+"0439244196,Holes,""Louis Sachar, Louis Sachar"",1998"
 159038783X,The Candy Shop War,Brandon Mull,2007
 0385341326,My Best Friend's Girl,Dorothy Koomson,2006
 0553269224,Rilla of Ingleside,L.M. Montgomery,1921
@@ -4146,7 +4145,7 @@ isbn,title,author,year
 0316013315,The Beatles: The Biography,Bob Spitz,2005
 0684856476,The Rum Diary,Hunter S. Thompson,1998
 0061284408,Stargazer,Claudia Gray,2009
-0747236380,Twilight,"Leigh Nichols, Dean Koontz",1984
+"0747236380,Twilight,""Leigh Nichols, Dean Koontz"",1984"
 0375806814,Where the Red Fern Grows,Wilson Rawls,1961
 0425203867,R is for Ricochet,Sue Grafton,2004
 030727103X,The Buried Giant,Kazuo Ishiguro,2015
@@ -4208,7 +4207,7 @@ isbn,title,author,year
 1619630656,Heir of Fire,Sarah J. Maas,2014
 0441018521,Magic Bleeds,Ilona Andrews,2010
 0007201095,Ya-Yas in Bloom,Rebecca Wells,2005
-2290032042,Rama II,"Arthur C. Clarke, Gentry Lee",1989
+"2290032042,Rama II,""Arthur C. Clarke, Gentry Lee"",1989"
 0441014348,Cursor's Fury,Jim Butcher,2006
 0451456718,Daughter of the Blood,Anne Bishop,1998
 0441014739,Blood Bound,Patricia Briggs,2007
@@ -4244,7 +4243,7 @@ isbn,title,author,year
 0525953183,Influx,Daniel Suarez,2014
 0060835273,The Beet Queen,Louise Erdrich,1985
 038077352X,Dreaming of You ,Lisa Kleypas,1994
-0451225856,"Lover Enshrined, part two",J.R. Ward,2009
+"0451225856,""Lover Enshrined, part two"",J.R. Ward,2009"
 1400069289,The Power of Habit,Charles Duhigg,2011
 0446400157,A Morbid Taste for Bones,Ellis Peters,1977
 0345505492,The Emperor's Tomb,Steve Berry,2010
@@ -4254,7 +4253,7 @@ isbn,title,author,year
 0062311077,Natchez Burning,Greg Iles,2014
 0345447867,The Apprentice,Tess Gerritsen,2002
 0525950608,Hold Tight,Harlan Coben,2008
-1590171993,Stoner,"John  Williams, John McGahern",1965
+"1590171993,Stoner,""John  Williams, John McGahern"",1965"
 0006498868,The Mad Ship,Robin Hobb,1999
 0385341970,Broken,Karin Slaughter,2010
 0385340540,The Broker,John Grisham,2005
@@ -4267,8 +4266,8 @@ isbn,title,author,year
 1478314605,Futures and Frosting,Tara Sivec,2012
 0446577898,The Inner Circle,Brad Meltzer,2011
 0425184226,The Sum of All Fears,Tom Clancy,1991
-0140297995,Austerlitz,"W.G. Sebald, Anthea Bell",2001
-156097432X,Palestine,"Joe Sacco, Edward Said",1996
+"0140297995,Austerlitz,""W.G. Sebald, Anthea Bell"",2001"
+"156097432X,Palestine,""Joe Sacco, Edward Said"",1996"
 0385534795,The Sandcastle Girls,Chris Bohjalian,2012
 0312861877,Xenocide,Orson Scott Card,1991
 0765340747,The Pillars of Creation,Terry Goodkind,2001
@@ -4282,7 +4281,7 @@ isbn,title,author,year
 0375508325,Cosmos,Carl Sagan,1980
 0099297701,Hannibal,Thomas Harris,1999
 045146317X,Changes,Jim Butcher,2010
-0140183523,Kim,"Rudyard Kipling, Edward Said",1901
+"0140183523,Kim,""Rudyard Kipling, Edward Said"",1901"
 0739453823,Black Rose,Nora Roberts,2005
 1596435712,Promised,Caragh M. O'Brien,2012
 096319254X,Memnoch The Devil,Anne Rice,1995
@@ -4297,8 +4296,8 @@ isbn,title,author,year
 0743418174,Good in Bed,Jennifer Weiner,2001
 0451227190,Carpe Corpus,Rachel Caine,2009
 0689806981,Tears of a Tiger,Sharon M. Draper,1994
-067122350X,Eloise,"Kay Thompson, Hilary Knight",1955
-0451076451,Rage,"Richard Bachman, Stephen King",1977
+"067122350X,Eloise,""Kay Thompson, Hilary Knight"",1955"
+"0451076451,Rage,""Richard Bachman, Stephen King"",1977"
 0385494246,Amsterdam,Ian McEwan,1998
 071483355X,The Story of Art,E.H. Gombrich,1950
 0230706150,Hell's Corner ,David Baldacci,2010
@@ -4382,7 +4381,7 @@ isbn,title,author,year
 1484705270,Every Last Word,Tamara Ireland Stone,2015
 0312864590,Crossroads of Twilight,Robert Jordan,2003
 0736693416,The Elfstones Of Shannara,Terry Brooks,1982
-0671796666,The Jordan Rules,"Sam Smith, Doug Grud",1992
+"0671796666,The Jordan Rules,""Sam Smith, Doug Grud"",1992"
 1416995587,We'll Always Have Summer,Jenny Han,2011
 0446556246,WAR,Sebastian Junger,2010
 0330487191,A House for Mr. Biswas,V.S. Naipaul,1961
@@ -4405,9 +4404,9 @@ isbn,title,author,year
 0356502023,The Crimson Campaign,Brian  McClellan,2014
 0749955910,Celebrity in Death,J.D. Robb,2012
 0451230647,Twice Bitten ,Chloe Neill,2010
-0679732187,"Absalom, Absalom!",William Faulkner,1936
+"0679732187,""Absalom, Absalom!"",William Faulkner,1936"
 0749928999,Kindred in Death ,J.D. Robb,2009
-0345418530,"Ogre, Ogre (Xanth, #5)",Piers Anthony,1982
+"0345418530,""Ogre, Ogre (Xanth, #5)"",Piers Anthony,1982"
 1439148503,Under the Dome,Stephen King,2009
 0618562036,Empress Orchid,Anchee Min,2003
 0062282719,Bad Feminist ,Roxane Gay,2014
@@ -4418,7 +4417,7 @@ isbn,title,author,year
 0345476999,The Mephisto Club,Tess Gerritsen,2006
 0399158022,Red Mist,Patricia Cornwell,2011
 044101125X,The Other Wind,Ursula K. Le Guin,2001
-1416989412,"Hush, Hush",Becca Fitzpatrick,2009
+"1416989412,""Hush, Hush"",Becca Fitzpatrick,2009"
 0765375869,Lock In,John Scalzi,2014
 0547576722,We the Animals,Justin Torres,2011
 1416503811,Heartbreaker,Julie Garwood,2000
@@ -4466,7 +4465,7 @@ isbn,title,author,year
 0743294378,Bones to Ashes,Kathy Reichs,2007
 0451233328,Hard Bitten,Chloe Neill,2011
 0812550757,Speaker for the Dead,Orson Scott Card,1986
-0785100490,Marvels,"Kurt Busiek, Alex Ross",1993
+"0785100490,Marvels,""Kurt Busiek, Alex Ross"",1993"
 076534825X,Spin,Robert Charles Wilson,2005
 1405910216,On the Island,Tracey Garvis-Graves,2011
 1439152780,The Distant Hours,Kate Morton,2010
@@ -4532,7 +4531,7 @@ isbn,title,author,year
 0345471172,On Mystic Lake,Kristin Hannah,1999
 0439568455,Stay Out of the Basement,R.L. Stine,1992
 0446500046,Kushiel's Mercy,Jacqueline Carey,2001
-0141439580,Emma,"Jane Austen, Fiona Stafford",1815
+"0141439580,Emma,""Jane Austen, Fiona Stafford"",1815"
 1451655789,Hothouse Flower,Lucinda Riley,2010
 0385733143,Small Steps,Louis Sachar,2006
 0375869026,Wonder,R.J. Palacio,2012
@@ -4540,7 +4539,7 @@ isbn,title,author,year
 0553383051,Fevre Dream,George R.R. Martin,1982
 0856761222,Arsenic and Old Lace,Joseph Kesselring,1939
 0061134104,Bruiser,Neal Shusterman,2010
-0679436545,Taltos,"Anne Rice, Tim Curry",1994
+"0679436545,Taltos,""Anne Rice, Tim Curry"",1994"
 0312997191,Summer People,Elin Hilderbrand,2003
 156512569X,Mudbound,Hillary Jordan,2008
 0152047387,So You Want to Be a Wizard,Diane Duane,1983
@@ -4551,7 +4550,7 @@ isbn,title,author,year
 0451526570,Heart of Darkness,Joseph Conrad,1910
 006074815X,Storm Island,Ken Follett,1978
 0553278029,A Great Deliverance,Elizabeth  George,1988
-031237982X,Hunted,"P.C. Cast, Kristin Cast",2009
+"031237982X,Hunted,""P.C. Cast, Kristin Cast"",2009"
 0752865331,The Maltese Falcon,Dashiell Hammett,1930
 0385539088,China Rich Girlfriend,Kevin Kwan,2015
 1595547169,Fireproof,Eric Wilson,2008
@@ -4686,7 +4685,7 @@ isbn,title,author,year
 1101886692,Sleeping Giants,Sylvain Neuvel,2016
 037570342X,Family Matters,Rohinton Mistry,2001
 0312144075,The Samurai's Garden,Gail Tsukiyama,1994
-0770437850,Het diner,"Herman Koch, Sam Garrett",2009
+"0770437850,Het diner,""Herman Koch, Sam Garrett"",2009"
 0312352565,A Fatal Grace,Louise Penny,2007
 0451222385,Midnight Alley,Rachel Caine,2007
 0330344951,Ross Poldark,Winston Graham,1945
@@ -4696,9 +4695,9 @@ isbn,title,author,year
 0515135062,Three Fates,Nora Roberts,2002
 0786942460,The Crystal Shard,R.A. Salvatore,1988
 0393960420,Sister Carrie,Theodore Dreiser,1900
-0141357274,Girl Online,"Zoe Sugg, Siobhan Curham",2014
+"0141357274,Girl Online,""Zoe Sugg, Siobhan Curham"",2014"
 0345539842,Morning Star,Pierce Brown,2016
-0316899984,"River, Cross My Heart",Breena Clarke,1999
+"0316899984,""River, Cross My Heart"",Breena Clarke,1999"
 006221635X,How to Love,Katie Cotugno,2013
 0425190455,Idoru,William Gibson,1996
 0553804685,Red Seas Under Red Skies,Scott Lynch,2007
@@ -4707,7 +4706,7 @@ isbn,title,author,year
 1400031001,Any Human Heart,William  Boyd,2002
 0679743626,O Pioneers!,Willa Cather,1913
 0340830107,The Ship of Brides,Jojo Moyes,2005
-1401215815,Joker,"Brian Azzarello, Lee Bermejo",2008
+"1401215815,Joker,""Brian Azzarello, Lee Bermejo"",2008"
 0061720771,The Return: Nightfall,L.J. Smith,2009
 1622660757,Origin,Jennifer L. Armentrout,2013
 1476706123,Red Sparrow,Jason  Matthews,2013
@@ -4761,7 +4760,7 @@ isbn,title,author,year
 0007271212,Azincourt ,Bernard Cornwell,2008
 0006478964,Night Prey,John Sandford,1994
 1409522016,Angel Fire,L.A. Weatherly,2011
-0425127583,The Mask,"Owen  West, Dean Koontz",1981
+"0425127583,The Mask,""Owen  West, Dean Koontz"",1981"
 0307959880,Benediction,Kent Haruf,2013
 0786938250,The Halfling's Gem,R.A. Salvatore,1990
 0981546269,The Second Ship,Richard   Phillips,2006
@@ -4770,7 +4769,7 @@ isbn,title,author,year
 0062120395,The Son,Philipp Meyer,2012
 0099771810,American Pastoral,Philip Roth,1997
 1844137872,Wall and Piece,Banksy,1988
-0486431681,Sult,"Knut Hamsun, George Egerton",1890
+"0486431681,Sult,""Knut Hamsun, George Egerton"",1890"
 0571169341,Arcadia,Tom Stoppard,1993
 1477808701,Wayward,Blake Crouch,2013
 0553804693,The Republic of Thieves,Scott Lynch,2013
@@ -4785,13 +4784,13 @@ isbn,title,author,year
 0804178429,Half the World,Joe Abercrombie,2015
 051512608X,The Reef,Nora Roberts,1998
 0434017841,The Monsters of Templeton,Lauren Groff,2008
-0590930028,"No, David!",David Shannon,1998
+"0590930028,""No, David!"",David Shannon,1998"
 0802142400,Essays in Love,Alain de Botton,1993
 0316065765,The Blood of Flowers,Anita Amirrezvani,2007
 190444248X,Drachenreiter,Cornelia Funke,1997
 0446579939,The Lucky One,Nicholas Sparks,2008
 0399244565,The Icebound Land,John Flanagan,2005
-0060882077,Queste,"Angie Sage, Mark Zug",2008
+"0060882077,Queste,""Angie Sage, Mark Zug"",2008"
 0743496973,I Do (But I Don't),Cara Lockwood,2003
 0802142842,Cold Mountain,Charles Frazier,1997
 034083384X,The Sleeping Doll,Jeffery Deaver,2007
@@ -4799,7 +4798,7 @@ isbn,title,author,year
 0446354678,Memories of Midnight,Sidney Sheldon,1990
 0312989768,Nantucket Nights,Elin Hilderbrand,2002
 0142421715,Crossed,Ally Condie,2011
-1416523723,"Billy Budd, Sailor",Herman Melville,1924
+"1416523723,""Billy Budd, Sailor"",Herman Melville,1924"
 0061797081,The Rising,Kelley Armstrong,2013
 141692499X,Dragonsong ,Anne McCaffrey,1976
 039916443X,Concealed in Death,J.D. Robb,2014
@@ -4819,7 +4818,7 @@ isbn,title,author,year
 0451200829,Love and War ,John Jakes,1984
 0734406940,The Arrival,Shaun Tan,2006
 0743454162,Turning Angel,Greg Iles,2005
-0312594445,Redeemed,"P.C. Cast, Kristin Cast",2014
+"0312594445,Redeemed,""P.C. Cast, Kristin Cast"",2014"
 0380726297,Sacred,Dennis Lehane,1997
 0312947062,One Silent Night,Sherrilyn Kenyon,2008
 0441001866,Martin the Warrior,Brian Jacques,1993
@@ -4862,7 +4861,7 @@ isbn,title,author,year
 0195007778,A Sand County Almanac,Aldo Leopold,1949
 0375500723,The Heart of a Woman,Maya Angelou,1981
 0684859238,To Have and Have Not ,Ernest Hemingway,1937
-0061229776,"Vampire, Interrupted",Lynsay Sands,2008
+"0061229776,""Vampire, Interrupted"",Lynsay Sands,2008"
 0743495667,In Her Shoes,Jennifer Weiner,2002
 185723135X,Use of Weapons,Iain M. Banks,1990
 0007442912,Insurgent,Veronica Roth,2012
@@ -4882,9 +4881,9 @@ isbn,title,author,year
 140006208X,Olive Kitteridge,Elizabeth Strout,2008
 1594486247,The Painted Girls,Cathy Marie Buchanan,2012
 0553275720,Fantastic Voyage,Isaac Asimov,1966
-0140168125,Big Sur,"Jack Kerouac, Aram Saroyan",1962
+"0140168125,Big Sur,""Jack Kerouac, Aram Saroyan"",1962"
 0553803719,Foundation,Isaac Asimov,1951
-1846558913,"In a Dark, Dark Wood ",Ruth Ware,2015
+"1846558913,""In a Dark, Dark Wood "",Ruth Ware,2015"
 0345413997,The Door into Summer,Robert A. Heinlein,1957
 1590388127,The Wednesday Letters,Jason F. Wright,2007
 0316726192,Trading Up,Candace Bushnell,2003
@@ -4899,7 +4898,7 @@ isbn,title,author,year
 0006280897,The Four Loves,C.S. Lewis,1960
 0060935782,Vagabond,Bernard Cornwell,2002
 0061043532,Clouds of Witness,Dorothy L. Sayers,1926
-0316018783,"I, Alex Cross",James Patterson,2009
+"0316018783,""I, Alex Cross"",James Patterson,2009"
 0385613504,You Against Me,Jenny Downham,2010
 0007201788,Bones of the Hills,Conn Iggulden,2008
 0316231053,The Fever,Megan Abbott,2014
@@ -4928,7 +4927,7 @@ isbn,title,author,year
 0142406635,The Ruins of Gorlan,John Flanagan,2004
 0316074314,The Luminaries,Eleanor Catton,2013
 034548343X,The Amber Room,Steve Berry,2003
-0312360266,Marked,"P.C. Cast, Kristin Cast",2007
+"0312360266,Marked,""P.C. Cast, Kristin Cast"",2007"
 0425185508,Picture Perfect,Jodi Picoult,1995
 0425098605,The Vision,Dean Koontz,1977
 8807813025,Novecento,Alessandro Baricco,1994
@@ -4966,7 +4965,7 @@ isbn,title,author,year
 1476751447,Hard Choices,Hillary Rodham Clinton,2013
 0446580341,Simple Genius,David Baldacci,2007
 0810983915,Dog Days,Jeff Kinney,2009
-0394758277,"Farewell, My Lovely",Raymond Chandler,1940
+"0394758277,""Farewell, My Lovely"",Raymond Chandler,1940"
 0312420331,Crash,J.G. Ballard,1973
 0446615625,The Camel Club,David Baldacci,2005
 0140184937,Our Man in Havana,Graham Greene,1958
@@ -4974,9 +4973,9 @@ isbn,title,author,year
 0316228532,The Casual Vacancy,J.K. Rowling,2012
 0062071130,Everneath,Brodi Ashton,2012
 8424133498,Strega Nona,Tomie dePaola,1975
-0345418549,"Night Mare (Xanth, #6)",Piers Anthony,1982
+"0345418549,""Night Mare (Xanth, #6)"",Piers Anthony,1982"
 1400064562,Jaws,Peter Benchley,1974
-0553567152,"Don't Die, My Love",Lurlene McDaniel,1995
+"0553567152,""Don't Die, My Love"",Lurlene McDaniel,1995"
 1857239016,The Talismans of Shannara,Terry Brooks,1993
 068484477X,Stones from the River,Ursula Hegi,1994
 0020306652,Ball Four,Jim Bouton,1970

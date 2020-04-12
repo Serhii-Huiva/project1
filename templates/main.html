@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %} Books search. {% endblock %}
+
+{% block content %}
+    <div class="book_title">
+        <div class="isbn">
+            ISBN
+        </div>
+        <div class="title">
+            Title
+        </div>
+        <div class="author">
+            Author
+        </div>
+        <div class="year">
+            Year
+        </div>
+    </div>
+    {% for i in range(count) %}
+        <div class="book_item">
+            <a href=" {{ books[i][0] }} ">
+                <div class="isbn">
+                    {{ books[i][1] }}
+                </div>
+                <div class="title">
+                    {{ books[i][2] }}
+                </div>
+                <div class="author">
+                    {{ books[i][3] }}
+                </div>
+                <div class="year">
+                    {{ books[i][4] }}
+                </div>
+            </a>
+        </div>
+    {% endfor %}
+{% endblock %}

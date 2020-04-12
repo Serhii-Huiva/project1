@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block title %} {{ book[2] }} {% endblock %}
+
+{% block content %}
+<div class="book_info">
+    <img src="../static/img/book.png" alt="Book">
+    <div class="book_inf">
+        <h3> Book info: </h3>
+        <p> <b>ISBN:</b> {{ book[1] }} </p>
+        <p> <b>Title:</b> {{ book[2] }} </p>
+        <p> <b>Author:</b> {{ book[3] }} </p>
+        <p> <b>Year:</b> {{ book[4] }} </p>
+        <h3> Goodread information: </h3>
+        {% if grSt %}
+            <p> <b>Average book rating:</b> {{ grA }} </p>
+            <p> <b>Number of ratings:</b> {{ grNR }} </p>
+        {% else %}
+            <p> <b>No response from the Goodread website!</b> </p>
+            </br>
+        {% endif %}
+    </div>
+</div>
+<div class="coment_item">
+    <div class="range_item">
+        <h5> <b>Average book rating:</b> {{ userRating }} </h5>
+        <h5> <b>Number of ratings:</b> {{ comCount }} </h5>
+    </div>
+    {% if writeCom %}
+        <div class="coment_form_item">
+            <form class="coment_form" action="#" method="POST">
+                <div class="radio_btn_item">
+                    <input class="rating" type="radio" name="rating" value="1"> <span>1</span>
+                    <input class="rating" type="radio" name="rating" value="2"> <span>2</span>
+                    <input class="rating" type="radio" name="rating" value="3" checked> <span>3</span>
+                    <input class="rating" type="radio" name="rating" value="4"> <span>4</span>
+                    <input class="rating" type="radio" name="rating" value="5"> <span>5</span>
+                </div>
+                <h5> Your comment: (120 characters maximum) </h5>
+                <textarea class="coment_input" name="coment" maxlength="120" placeholder="Your comment."> </textarea>
+                <button class="send_btn"> Send comment </button>
+            </form>
+        </div>
+    {% else %}
+        <div class="range_item">
+            <h5> You have already rated the book. Thanks! </h5>
+        </div>
+    {% endif %}
+</div>
+{% if comCount > 0 %}
+    {% for i in range(comCount) %}
+        <div class="coment_item">
+            <div class="user_coment_item">
+                <h3> {{ coments[i][0] }} </h3>
+            </div>
+            <div class="range_item">
+                <h5> <b>User rating:</b> {{ coments[i][1] }} </h5>
+                <h5> <b>Comment:</b></br> {{ coments[i][2] }} </h5>
+            </div>
+        </div>
+    {% endfor %}
+{% else %}
+    <div class="coment_item">
+        <h5> There are no user comments on this book. </h5>
+    </div>
+{% endif %}
+{% endblock %}

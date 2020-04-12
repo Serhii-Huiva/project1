@@ -9,8 +9,8 @@ db = scoped_session(sessionmaker(bind=engine))
 
 db.execute("CREATE TABLE books (id SERIAL PRIMARY KEY, isbn VARCHAR NOT NULL, title VARCHAR NOT NULL, author VARCHAR NOT NULL, year VARCHAR NOT NULL)")
 
-fl = open("books.csv")
-reader = csv.reader(fl)
+file = open("books.csv")
+reader = csv.reader(file)
 count = 1
 for isbn, title, author, year in reader:
     db.execute("INSERT INTO books (isbn, title, author, year) VALUES (:isbn, :title, :author, :year)", 

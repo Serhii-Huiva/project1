@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(img/login_bg.jpg);
+    text-align: center;
+    font-size: 20px;
+    color: indigo;
+}
+
+button > a {
+    text-decoration: none;
+    color: lightblue;
+}
+
+@media (min-width: 640px) {
+    .form_login {
+        background-image: url(img/login.jpg);
+        background-position: center;
+        max-width: 550px;
+        height: 350px;
+        margin: 20% auto;
+    }
+
+    h3 {
+        padding-top: 25px;
+        font-size: 25px;
+    }
+
+    .input {
+        font-size: 22px;
+        margin: 10px auto;
+        width: 70%;
+        height: 30px;
+    }
+
+    button {
+        width: 30%;
+        height: 30px;
+        font-size: 22px;
+        background-color: #967;
+        color: lightblue;
+    }
+
+    h6 {
+        padding-top: 25px;
+    }
+}
+
+@media (max-width: 639px) {
+    .form_login {
+        background-color: #eee;
+        opacity: 0.9;
+        border: black solid 2px;
+        width: 70%;
+        height: 300px;
+        margin: 100px 15%;
+    }
+
+    h3 {
+        margin: 10px auto;
+        opacity: 1;
+    }
+
+    .input {
+        margin: 5px auto;
+        width: 90%;
+        height: 25px;
+    }
+
+    button {
+        width: 50%;
+        height: 25px;
+        background-color: #967;
+        color: lightblue;
+    }
+}
+
+.container {
+    text-align: center;
+}
+
+.message_error {
+    background-color: #f11;
+    opacity: 0.8;
+    font-size: 30px;
+    color: black;
+    width: 50%;
+    height: 300px; 
+    margin: 100px auto;
+    border: black solid 2px;
+}
+
+.message_sucses {
+    background-color: greenyellow;
+    opacity: 0.8;
+    font-size: 30px;
+    color: black;
+    width: 50%;
+    height: 300px; 
+    margin: 100px auto;
+    border: black solid 2px;
+}
